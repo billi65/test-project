@@ -1,0 +1,44 @@
+niche: "psychology and human-behavior facts"
+audience: "curious adults scrolling Facebook Reels"
+tone: "intriguing, confident, conversational; second person ('you')"
+language: "English"
+
+llm:
+  model: "claude-opus-5-5"
+  effort: "low"          # low | medium | high — low keeps cost/latency down
+
+script:
+  min_scenes: 6
+  max_scenes: 8
+  target_words: 145      # ~55-60 s at the voice rate below
+  max_seconds: 59
+
+voice:
+  name: "en-US-AndrewNeural"   # `edge-tts --list-voices` for others
+  rate: "+8%"
+
+images:
+  provider: "fal"        # fal | pollinations
+  fal_model: "fal-ai/flux/schnell"
+  style: "cinematic, moody dramatic lighting, shallow depth of field, rich color grading, photorealistic, vertical 9:16 composition, no text, no watermark"
+
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  crossfade: 0.3
+  use_ai_video: false    # reserved: switch scenes to image-to-video using each scene's video_prompt
+
+music:
+  dir: "assets/music"    # drop royalty-free .mp3 files here; one is picked at random
+  volume_db: -20
+
+captions:
+  font: "Arial Black"
+  size: 92
+  words_per_chunk: 3
+  margin_v: 620          # pixels from bottom; keeps captions above the Reels UI
+
+publish:
+  graph_version: "v21.0"
+  ai_disclosure: "🤖 Visuals & voice made with AI."
