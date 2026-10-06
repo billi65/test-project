@@ -1,0 +1,49 @@
+{
+  "title": "The Spotlight Effect",
+  "scenes": [
+    {
+      "narration": "Nobody is watching you as closely as you think. And psychologists have a name for that feeling.",
+      "on_screen_text": "Nobody is watching",
+      "image_prompt": "A young man standing alone under a single spotlight in a dark crowded room, everyone around him blurred and looking at their phones, tense expression",
+      "video_prompt": "Slow push-in on the man's face as the spotlight flickers; blurred figures drift past in the background"
+    },
+    {
+      "narration": "It's called the spotlight effect. We overestimate how much other people notice our looks, our mistakes, and our awkward moments.",
+      "on_screen_text": "The Spotlight Effect",
+      "image_prompt": "A woman at a cafe table glancing nervously at a small coffee stain on her shirt, other customers absorbed in their own conversations, warm window light",
+      "video_prompt": "Camera slowly orbits the woman as she looks down at the stain; customers keep chatting"
+    },
+    {
+      "narration": "In one well-known study, students wore an embarrassing T-shirt into a room. They guessed about half the room noticed. In reality, far fewer did.",
+      "on_screen_text": "Far fewer noticed",
+      "image_prompt": "A college student entering a lecture hall wearing a loud, embarrassing graphic t-shirt, classmates mostly looking at laptops, overhead fluorescent light",
+      "video_prompt": "Tracking shot following the student walking in; heads stay down on laptops"
+    },
+    {
+      "narration": "Why does this happen? Because you are the center of your own world. You live inside your head all day, so you assume everyone else is looking at it too.",
+      "on_screen_text": "You're the center of your world",
+      "image_prompt": "Surreal image of a person standing in the middle of a city street while giant mirrors around them reflect only their own face, dusk lighting",
+      "video_prompt": "Slow 360-degree rotation around the person as the mirrors shimmer"
+    },
+    {
+      "narration": "But everyone else is busy doing the exact same thing. Worrying about themselves.",
+      "on_screen_text": "Everyone's worried about themselves",
+      "image_prompt": "A busy subway car full of commuters each lost in their own thoughts, some anxious, some checking reflections, cinematic teal and orange grade",
+      "video_prompt": "Slow lateral dolly along the subway car past each commuter's face"
+    },
+    {
+      "narration": "So next time you trip, stumble over a word, or have a bad hair day, remember. Most people won't notice, and the ones who do will forget by tomorrow.",
+      "on_screen_text": "They'll forget by tomorrow",
+      "image_prompt": "A confident woman laughing after tripping slightly on a city sidewalk, passersby continuing on their way, golden hour sunlight",
+      "video_prompt": "Slow-motion shot of the woman regaining balance and smiling as people walk past"
+    },
+    {
+      "narration": "Follow for more psychology that explains the way you think.",
+      "on_screen_text": "Follow for more",
+      "image_prompt": "Glowing human brain made of light floating in a dark space with soft particles, mysterious and elegant",
+      "video_prompt": "Brain slowly rotates while particles drift upward; gentle push-in"
+    }
+  ],
+  "caption": "You're not as noticed as you think — and that's freeing. 🧠\nWhat's an embarrassing moment you overthought for days?",
+  "hashtags": ["#psychology", "#psychologyfacts", "#spotlighteffect", "#mindset", "#selfimprovement", "#didyouknow"]
+}
